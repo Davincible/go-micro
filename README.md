@@ -14,6 +14,10 @@ prior contributions.
 - [Plugins](https://github.com/go-micro/plugins)
 - [CLI](https://github.com/go-micro/cli)
 
+## Maintainers
+
+See [MAINTAINERS](MAINTAINERS) for the list of current maintainers
+
 ## License
 
 All projects are under the Apache 2.0 license
