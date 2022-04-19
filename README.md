@@ -13,3 +13,7 @@ prior contributions.
 - [Examples](https://github.com/go-micro/examples)
 - [Plugins](https://github.com/go-micro/plugins)
 - [CLI](https://github.com/go-micro/cli)
+
+## License
+
+All projects are under the Apache 2.0 license
