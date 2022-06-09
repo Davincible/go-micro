@@ -17,7 +17,6 @@ prior contributions.
 ## Community
 
 - [Discord](https://discord.gg/qV3HvnEJfB)
-- [Slack](https://join.slack.com/t/go-micro/shared_invite/zt-175aaev1d-iHExPTlfxvfkOeeKLIYEYw)
 - [QQ Group](https://jq.qq.com/?_wv=1027&k=5Gmrfv9i)
 
 ## Maintainers
